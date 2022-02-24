@@ -1,0 +1,274 @@
+scrum-vs-kanban-vs-lean  
+  https://dzone.com/articles/agile-framework-comparison-scrum-vs-kanban-vs-lean
+SAFE
+  https://www.edureka.co/blog/interview-questions/scaled-agile-interview-questions/#advanced
+  
+  
+  Agile is a mindset, a philosophy, more like a way of thinking, a movement focusing on communication, team-thinking,
+agile frameworks
+•	Kanban – pull instead of push from Kanban board.
+•	Test-Driven Development
+•	Feature Driven Development
+•	Extreme programming
+•	Crystal
+•	Lean Software Development
+Few popular large-scale agile frameworks are:
+•	Scaled Agile Framework (SAFe)
+•	Disciplined Agile Delivery (DAD)
+•	Large-Scale Scrum (LeSS)
+•	Scrum at Scale
+•	Spotify Model
+
+Beginner Level Scaled Agile Framework Interview Questions
+Q1. What is Agile? Explain Agile in 2 min.
+This is a tricky and controversial question since the definition of agile is not commonly agreed upon. Is agile a framework? Is agile a methodology?
+Agile is a mindset, a philosophy, more like a way of thinking, a movement focusing on communication, team-thinking, intrinsic motivation, empowerment, innovative walks, flow, and value creation while developing a product. 
+Q2. List some popular agile frameworks that you have used until now.
+When you are posed with this sort of question, and if you haven’t used any frameworks, just name few that you might have heard of. Other frameworks that are based on agile are:
+•	Kanban
+•	Test-Driven Development
+•	Feature Driven Development
+•	Extreme programming
+•	Crystal
+•	Lean Software Development
+Q3. What are some agile frameworks available for large-scale enterprise projects?
+Few popular large-scale agile frameworks are:
+•	Scaled Agile Framework (SAFe)
+•	Disciplined Agile Delivery (DAD)
+•	Large-Scale Scrum (LeSS)
+•	Scrum at Scale
+•	Spotify Model
+Q4. What is SAFe?
+or
+Q4. What is the Scaled Agile Framework?
+Pioneered by Dean Leffingwell, Scaled Agile Framework (SAFe) is an enterprise-scale development framework which uses a combination of existing lean and agile principles and combines them into a templated framework for large-scale projects. It is based on three primary bodies of knowledge:
+1.	Agile Development
+2.	Lean Product Development
+3.	Systems Thinking
+Q5. What is the difference between Agile and SAFe Framework?
+Agile is a mindset, a philosophy, more like a way of thinking, a set of principles for actions that keep a software development team organized and efficient. It is a broad term that covers a number of frameworks like Scrum, Kanban, etc.
+On the contrary, SAFe is an acronym for the Scaled Agile Framework, which is an agile framework available for large-scale enterprise projects. It adds extra layers of communication and controls to allow people to use agile frameworks (like Scrum) with very large groups.
+Q6. Name the four levels of the latest version of SAFe.
+The latest version of SAFe has four levels, which are:
+•	Team Level
+•	Program Level
+•	Value Stream Level
+•	Portfolio Level
+Q7. What are the different configurations of SAFe?
+SAFe supports the full range of development environments with four various configurations, which are:
+•	Essential SAFe
+•	Large Solution SAFe
+•	Portfolio SAFe
+•	Full SAFe
+Q8. Are the core values and principles in safe lean based or agile-based?
+Scaled Agile Framework 9SAFe) is based on both Lean and Agile principles. SAFe supports four Core Values, which are:
+•	Alignment – It is necessary to keep up with rapid change & competitive forces
+•	Built-in quality – Ensures that every piece of the product reflects quality standards
+•	Transparency – To achieve best results transparency and trust within the organization is important
+•	Program Execution – SAFe places an intense focus on working systems and business outcomes
+Q9. What is an Agile Release Train (ART)?
+An Agile Release Train (ART) is a long-lived, self-organizing team of Agile Teams., which, along with other stakeholders, incrementally plans, develops and delivers a continuous flow of incremental releases of value in a Value Stream.
+Q10. What is Program Increment (PI)?
+A Program Increment is a timebox during which an Agile Release Train (ART) delivers incremental value in the form of the working, tested software and systems. Just like how you have an iteration for the agile team, there is a Program Increment for ARTs. PIs are usually 8-12 weeks long. Generally, PI is of four development iterations and one Innovation and Planning (IP) iteration.
+Q11. Who is the Release Train Engineer?
+Release Train Engineer, is a servant leader and the chief scrum master for the Agile Train. The RTE facilitates optimizing the flow of value through the program using various mechanisms, such as the Program Kanban, Inspect & Adapt workshops and PI planning.
+Q12. What is Iteration Review in SAFe?
+Iteration Review is a cadence-based event in which every team inspects the increment at the end of every iteration to assess progress, and then adjusts the team backlog based on the feedback received in the meeting. All the work that is done during the iteration reviewed during the iteration review meeting.
+Q13. What is the difference between a Capability and a Feature?
+A feature is a service provided by the system that addresses stakeholders requirements. Each feature has two core concepts –  a benefit hypothesis and acceptance criteria. It is sized as necessary and made ready to be delivered by a single Agile Release Train (ART) in a Program Increment (PI).
+Capabilities are similar to features, however, they describe higher-level solution behaviors and often take multiple ARTs to implement. They are sized and broken down into multiple features to aid their implementation in a single PI.
+Q14. Apart from Scrum, which frameworks can be used at the team level?
+Usually, Scrum is widely used at the team level but it is not the only practice that is being followed in SAFe. The teams in SAFe can use the agile framework which works best for their team and the delivery. They can opt for Kanban, Extreme Programming (XP), Scrum or even Scrum with XP (ScrumXP).
+Q15. Describe team Kanban. How are they different from other teams?
+Team Kanban is a method that helps teams facilitate the flow of value by visualizing workflow, establishing WIP (Work In Process) limits measuring throughput, and continuously improving their process. They are used at Portfolio, Large Solution, Program and Team levels of SAFe. 
+Unlike other frameworks, Kanban is described as a pull system. Teams “pull” work when they know they have the capacity for it, rather than having scope being “pushed” on them.
+Q16. What are Stories?
+Stories are a short description of a small piece of the desired functionality and feature, written in the user’s language. They are primary artifacts used to define system behavior in Agile.
+Q17. What is the difference between User Stories and Enabler Stories?
+User Stories deliver functionality directly to the end-user, whereas enabler stories bring visibility to work items needed to support exploration, architecture, infrastructure, and compliance. Sometimes teams also need to develop technical functionality that is needed to implement a number of different user stories or support other components of the system. Those are enabler stories.
+Intermediate Level Scaled Agile Framework Interview Questions
+Q18. When to use the Scaled Agile Framework?
+Scaled Agile Framework (SAFe) can be used when:
+•	The team is interested to implement an agile approach consistently across larger, multi-team programs and portfolios
+•	Multiple teams are already implementing Agile but regularly facing obstacles, delays, and failures
+•	Teams want to work independently and in a decentralized decison-making environment
+•	There is a need to scale Agile across the organization but not sure what new roles may be needed or what existing roles need to change and how
+•	An organization needs to improve its product development lead time and want to know how other companies have succeeded in scaling Agile with SAFe
+Q19. Can you describe the four-tier hierarchy of artifacts that describe functional system behavior?
+SAFe defines an artifact hierarchy of  Epic, Capability, Feature, and Story.
+•	Stories are the primary artifacts, where each story provides a small, independent behavior that can be implemented incrementally and that provides some value to the user
+•	A feature is a service provided by the system that addresses stakeholders requirements. Each feature has two core concepts –  a benefit hypothesis and acceptance criteria. 
+•	Capabilities are similar to features, however, they describe higher-level solution behaviors and often take multiple ARTs to implement.
+•	Epics are defined at Portfolio Level and they are containers for significant initiatives that help guide value streams toward the larger aim of the portfolio. They are large and typically crosscutting, crossing multiple Value Streams and Agile Release Trains (ARTs).
+Q20. Explain what is a scrum of scrums.
+This is one of the commonly asked scrum master interview questions. For example, let’s say there is an active project with seven teams working on it. The number of members of each team is also seven and are responsible to lead their own scrum meeting. But, in order to coordinate and communicate with different teams, they need to organize a separate scrum meeting. This meeting is called the scrum of scrums. The responsible person from each team attends the meeting and discuss their work and progress.
+ 
+Q21. How is Essential SAFe different from Portfolio SAFe?
+The Essential SAFe configuration is at the heart of the framework and is the simplest starting point for implementing SAFe. Though it is the initial level for organizations opting to implement SAFe, it consists of the most critical elements needed to recognize the majority of the framework’s benefits. 
+Talking about Portfolio SAFe, it helps to align portfolio execution to enterprise strategy and provides the basic constructs for organizing the Lean-Agile Enterprise around the flow of value.
+Q22. What is the difference between Customers and Business Owners?
+Customers are an integral part of Lean-Agile development and are the ultimate economic buyer of every solution. Whether internal or external they are increasingly demanding and they have choices. They want more value and they want their solution providers to continuously improve the quality of their products and services.
+Business Owners are a critical group of three to five (3 – 5) stakeholders who have shared fiduciary, governance, efficacy, and ROI responsibility for the value delivered by a specific Agile Release Train (ART).
+Q23. What is a Value Stream in SAFe?
+A value stream is a long-lived series of steps used to deliver value, from customer order to delivery of a tangible result for the customer. The image below illustrates the anatomy of a value stream.
+ 
+An event triggers the flow of value, it could be a customer request or a new feature requirement. It ends when some value has been delivered like a shipment, customer purchase, or solution deployment. The activities in between are steps that enterprize uses to accomplish the task. So, basically, a value stream contains the people who do the work, the systems they develop or operate, and the flow of information and materials
+Q24. Who are suppliers in SAFe? What do they do?
+As you know the goal of Lean-Agile principles is to deliver value to their customers in the shortest possible lead time and with the highest possible quality. To achieve that they engage Suppliers to develop and deliver components and subsystems. These suppliers have unique and distinctively competent skills and are experts in their technology.
+They play a key role in SAFe and can have a large impact on lead time and value delivery of the Enterprise’s Value Streams. To achieve the optimal results Suppliers become an extension of the culture and ethos of the enterprise, they are treated as a true partner.
+Q25. What is the relationship between Value Stream and Agile Release Train (ART)?
+Value Stream 	Agile Release Train (ART)
+A Value Stream is a long-lived series of steps that provide a continuous flow of value to the customer	An Agile Release Train is a long-lived, self-organizing team of Agile Teams that delivers a continuous flow of incremental releases of value in a Value Stream.
+Q26. What is Architectural Runway in SAFe?
+The Architectural Runway consists of the existing code, components and technical infrastructure necessary to support the implementation of prioritized, near-term features, without excessive redesign & delay. It supports the continuous flow of value, provides the necessary technical foundation for developing business initiatives and implementing new features.
+Q27. What are the advantages of the Scaled Agile Framework (SAFe)?
+Advantages of using SAFe are as follows:
+•	Offers the opportunity to tap into a relatively lightweight framework that creates efficiency in software development while maintaining the centralized decision-making necessary at the enterprise level
+•	Helps teams maintain alignment with business goals and achieve greater transparency
+•	Helps cross-functional teams collaborate more effectively
+•	Highly suitable for large organizations
+•	Puts more emphasis on people over technology
+Q28. How is the Continuous Delivery Pipeline associated with the Agile Release Train (ART)?
+The Continuous Delivery Pipeline (sometimes just referred to as just ‘pipeline’) represents the workflows, activities, and automation needed to develop a new piece of functionality all the way from ideation to an on-demand release of value to the end-user. The pipeline consists of four elements: 
+•	Continuous Exploration (CE)
+•	Continuous Integration (CI)
+•	Continuous Deployment (CD)
+•	Release on Demand
+Q29. What is the final element of the Continuous Delivery Pipeline?
+The final element of Continuous Delivery Pipeline is Release on Demand. It is the ability to make the value available to customers all at once or in an ad-hoc fashion, based on the needs of the market and the business. 
+Q30. What is the need for Solution Demo?
+Solution demo is where the results of combined development efforts of multiple Agile Release Trains (ARTs) along with the contribution from Suppliers are shown to customers and other stakeholders. It is a very critical meeting for support train, an opportunity for objective evaluation and feedback. Also, a moment to celebrate and encourage team on their efforts of the latest PI.
+Q31. What is the Innovation and Planning (IP) Iteration in SAFe?
+An important aspect of SAFe is continuous improvement. which is achieved through periodic Innovation and Planning sprints. IP iteration provides a regular, cadence-based opportunity for teams to work on activities that are difficult to fit into a continuous, incremental value delivery pattern. These may include:
+•	Time for innovation and exploring beyond the iterations dedicated to the delivery
+•	Working on technical infrastructure, tooling, and other impediments
+•	Education and awareness to support continuous learning and improvement
+Q32. Is customer a part of Value Stream?
+Yes, the customer is a part of Value Stream. Customers are of two types:
+•	Internal Customer can be from one of the departments within the organization requesting to build solutions around their requirements
+•	External customers are the ones who are the direct economic buyer of the solution
+Customers support for Lean and Agile principles and their active and continuous participation in the Solution definition, planning, demonstrations, and evolution are essential to successful execution.
+Q33. What are Epics?
+Epics are defined at Portfolio Level and they are containers for significant initiatives that help guide value streams toward the larger aim of the portfolio. There are two types of epics: business epics and enabler epics, each of which may occur at the Portfolio, Large Solution, and Program Levels.
+•	Business epics directly deliver business value 
+•	Enabler epics are used to evolve the Architectural Runway to support upcoming business epics
+Next, let’s move on to the tricky and advanced scaled agile interview questions.
+Advanced Level Scaled Agile Framework Interview Questions
+Q34. Have you ever worked in an Agile environment? What do you think are some issues that organizations face when scaling agile principles and practices?
+Be honest and let them know if you have worked with Agile or not. If not, there is nothing to panic, smoothly convey the same to the interviewer. A common complaint with agile development is that it doesn’t scale well, for reasons like: 
+•	Lack of long-term planning & coping with longer planning horizons
+•	Lack of agile practices at management levels
+•	Way too many team members to collaborate and manage
+•	Lack of synchronization and common goal among teams
+•	Dealing with delegated authority
+•	Multiple sources of requirements from multiple teams
+•	Unmapped dependencies creating unexpected issues and obstacles
+Q35. SAFe is based on Lean Product Development. What is the goal of Lean thinking?
+The goal of Lean is to deliver maximum customer value while minimizing waste and providing the highest possible value to the customer and society as a whole. To accomplish this:
+•	Lean thinking optimizes the flow of products and services 
+•	Lean-Agile principles provide a better understanding of the system development process
+•	It incorporates new tools and techniques that leaders and teams can use to deliver the best results
+•	Emphasizes more on respecting people and culture
+Q36. Does SAFe follow Agile Architecture or it does it have its own model?
+Scaled Agile Framework (SAFe) is based on Agile Architecture which applies to all the levels in SAFe. It is based on nine immutable, underlying Lean-Agile principles:
+•	Take an economic view
+•	Apply system thinking
+•	Assume variability; preserve options
+•	Build incrementally with fast, integrated learning cycles
+•	Base milestones on the objective evaluation of working systems
+•	Visualize & limit WIP, reduce batch sizes, & manage queue length
+•	Apply cadence; synchronize with cross-domain planning
+•	Unlock the intrinsic motivation of knowledge workers
+•	Decentralize decision-making
+Q37. What are Product Managers responsible for in SAFe?
+Product Manager has content authority at the program level and is responsible for Program Vision and Program Backlog. Listed below are the primary responsibilities of the Product Manager in the context of a single Agile Release Train.
+•	Understand customer needs and participate in the validation of the proposed solutions
+•	Has the responsibility to understand and support portfolio work
+•	Develop and communicate the program vision to the development teams and defines the roadmap
+•	Manage the flow of work through the program Kanban and into the program backlog
+•	Participate in PI meetings and Inspec & Adapt workshops
+Q38. What are the roles and responsibilities of a Release Train Engineer (RTE)?
+The core responsibilities of the RTE are as follows:
+•	Manage & optimize the flow of value through mechanisms such as Program Kanban, Inspect & Adapt workshops and PI planning
+•	Aggregate Team PI Objectives into Program PI Objectives and publish them for visibility and transparency
+•	Encourage the collaboration between all the teams and Solution Architects, Engineering, and User Experience team, etc
+•	Work with Product Owners, Product Management and other value stream stakeholders to help ensure strategy and execution alignment
+•	Track impediments and help manage risks and dependencies
+•	As a chief scrum master, coach leaders, teams, and Scrum Masters in Lean-Agile practices and mindsets
+Q39. What do you know about Value Stream Level of SAFe?
+Value stream layer was introduced between the ART and Portfolio layers as part of SAFe 4.0. It is intended for builders of large and complex solutions, that typically require multiple ARTs as well as the contribution of Suppliers. Value Stream Level is optional and the primary purpose of this level is to apply Lean-Agile approaches to define, build, and deploy large, mission-critical solutions. Building such solutions requires additional constructs, artifacts, and coordination. This level contains
+•	
+o	An Economic Framework which provides financial boundaries for Value Stream decision-making
+o	A Solution Intent as a repository to keep track of intended and actual solution behavior
+o	A Solution Context, which describes the way the solution fits in the deployment environment
+o	Capabilities that describe the larger behaviors of the solution
+Q40. What are the Shared Services and how can the SAFe framework benefit from them?
+Shared Services are special roles that are necessary for the success of an Agile Release Train (ART) and Solution Train but that cannot be dedicated full time. Potential members of shared services typically include:
+•	Agile & software/system engineering coaches
+•	Desktop support
+•	Application/web portal management
+•	Data modeling, data engineering, and database support
+•	Enterprise and information architecture
+•	Infrastructure and tools management
+•	Security specialist
+•	Technical writers
+Since they are special roles, often single-sourced, and typically quite busy, each ART and value stream must plan to engage the resources they need, when they need them.
+Q41. What is the purpose of Portfolio Level?
+The Portfolio is the highest level in SAFe. It provides constructs like principles, practices, and roles organizing the Lean-Agile Enterprise around the flow of value via one or more Value Streams. The portfolio has a bidirectional connection to the business:
+•	The first way is to provide the strategic themes that guide the portfolio to the larger, and ever-changing business objectives. These strategic themes connect the portfolio to the evolving enterprise business strategy, provide business context for decision-making within the portfolio and affect investments in value streams and serve as inputs to the portfolio, solution, and program backlogs. Strategic themes are not created by the business in isolation, rather, key portfolio stakeholders participate in that process. 
+•	The second direction provides a constant flow of feedback from the portfolio back to enterprise stakeholders. This includes value stream key performance indicators, qualitative assessments of the current state of the portfolio’s solutions for market purpose, along with any strengths, weaknesses, opportunities, and threats that are present at the portfolio level.
+Q42. What are the responsibilities of a System Team?
+A System Team is a special Agile Team on the Agile Release Train (ART). They assist in building and supporting the Agile development environment infrastructure, including continuous integration, build environments, testing platforms and testing automation frameworks, and integrating code from Agile Team. he primary responsibilities of the System team include:
+•	Building development infrastructure that supports high ART velocity
+•	System Integration, teams participate in different meetings to define integration and test backlog items, run solution-level integration scripts
+•	Perform End-to-End and Solution Performance Testing
+•	Integrate and show progress at the system and solution demo
+Q43. Explain the program level roles in SAFe?
+The new redefined role structure at the program level is as stated below:
+Role 	Responsibility
+System Team	A System Team is a special Agile Team on the Agile Release Train (ART) who assist in building and supporting the Agile development environment including continuous integration, build environments, testing platforms, and testing automation frameworks, and integrating code from Agile Team
+Product Manager	Product Managers are responsible for identifying Customer needs, prioritizing Features, guiding the work through the Program Kanban and developing the program Vision and Roadmap.
+System Architect	System Architect is an individual who defines the overall architecture of the system, help define nonfunctional requirements, determine the major elements and subsystems, and help define the interfaces and collaborations among them.
+Release Train Engineer (RTE)	The Release Train Engineer is the Chief Scrum Master, who facilitates program-level processes and program execution, escalates impediments, manages risk, and helps drive program-level continuous improvement.
+Release Management Team 	The release team looks after the process of managing, planning, scheduling and controlling a software build through different stages and environments; including testing and deploying software releases.
+Q44. What are the five dimensions of Built-In Quality?
+Built-In Quality ensures that every element and every increment of the build are up to the same high standard of quality throughout the development lifecycle. Quality is very important, without it, the organization will likely operate with large batches of unverified, unvalidated work. Five dimensions of built-in quality are shown below. 
+The first one, Flow speaks to the fact that built-in quality is mandatory to achieve continuous value flow. The other four describe quality as it applies to the system itself.
+Q45. How is the Solution Train different from Agile Release Train?
+The Solution Train is the organizational construct that is used to build very large and complex solutions that require the coordination of multiple Agile Release Trains (ARTs), as well as support from the contributors of Suppliers. It aligns all these ARTs with a shared mission using the solution vision, backlogs and roadmap, and an aligned program increment.
+The solution train provides additional roles, events, and artifacts needed to coordinate the building of some of the world’s largest and most important systems and solutions. The failure of such solutions, or even a subsystem, has unacceptable economic and societal consequences.
+Q46. What are the roles present in the Solution Train?
+Roles 	Responsibility
+Solution Train Engineer (STE)	STE is the servant leader of the team & they make sure the smooth running of the train and manage the delivery of the solution with the Release Train Engineers.
+Solution Management	They represent the customer’s overall needs to the Agile Release Trains. They collaborate with the product management of each ARTs to define capabilities & break them into features.
+Solution Architect/Engineer	They define the technology and architecture that connects the solution across the ARTs
+Customers	They are the ultimate buyers of the solution and are involved at every level of SAFe
+System Team	It is a special Agile Team on the Agile Release Train (ART) who assist in building and supporting the Agile development environment infrastructure
+Shared Services	They are special roles that are necessary for the success of an Agile Release Train (ART) and Solution Train but that cannot be dedicated full time
+Q47. What are the responsibilities of the System Architect/Engineer?
+The SAFe System Architects/Engineers are the individuals and teams who have the technical responsibility for the overall architectural and engineering design of the system and solution, respectively. Some of their responsibilities include:
+•	Participate in planning and high-level design of the solution and explore solution alternatives
+•	Define subsystems and their interfaces
+•	Allocate responsibilities to subsystems 
+•	Understand solution deployment, and communicate requirements with other teams
+•	Work with Customers, stakeholders, and Suppliers to establish high-level Solution Intent
+•	Operate within the economic framework to validate the economic impact of design decisions
+The role of an Architect is very common in software development and has been included in SAFe as one of the critical roles at the program and portfolio levels.
+Q48. How does SAFe supports alignment?
+Alignment is necessary to keep up with rapid change, disruptive competitive forces, and geographically distributed teams. More importance should be given to enterprise business objectives over team goals. SAFe supports alignment in the following ways:
+•	It is supported by clear lines of content authority
+•	PI Objectives and iteration goals are used to communicate expectations and commitments
+•	Cadence and synchronization are applied to ensure that things stay in alignment
+•	All the work is visible, debated, resolved and transparent
+•	Lean prioritization keeps the stakeholders engaged in continuous, agreed-to, rolling-wave prioritization
+•	Architectures and user feedback help ensure that the Solution is technologically sound, robust, and scalable
+Q49. How is decentralized decision making important in SAFe?
+The primary intention of decentralized decision making is to deliver value in the sustainably shortest lead time. Waiting for the approval of the decision from higher authorities introduces a delay and can decrease the fidelity of the decision, due to the lack of local context, plus changes in fact patterns that occur during the wait time. decentralized decision making reduces delays, improves product development flow, and enables faster feedback and more innovative solutions.
+Q50. What are the disadvantages of adopting SAFe?
+Although SAFe brings many benefits to the table, it also comes with its own drawbacks, like:
+•	SAFe takes too much of a top-down approach,  rather than a team-based approach
+•	Heavily emphasizes the use of its particular practices and rules, without leaving much room for customization on the part of the organization
+•	Additional layers of oversight, administration, and coordination of SAFe make it resemble the waterfall approach that many teams are trying to leave behind
+Well, that’s it! We have reached the end of the Scaled Agile Interview Questions Article.
+I hope the questions listed in this “Scaled Agile Interview Questions” help you crack your interview. Happy learning!
+
