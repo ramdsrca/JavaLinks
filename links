@@ -14,3 +14,9 @@ https://github.com/premaseem/AlgorithmAndDataStructureInJava/tree/master/notes
 
 SpringBoot
 https://www.javatpoint.com/spring-boot-auto-configuration
+
+Redis Cache
+Cache Policy Entry - Eviction. Based on LRU Least recently used. Sliding window policy . 
+Bad performance
+Poor eviction policy is bad. Cache size is small 
+Consistency with DB. 
