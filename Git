@@ -1,0 +1,47 @@
+
+https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head
+
+
+
+I needed to do :
+
+git fetch origin
+git reset --hard origin/master
+
+Followed by:
+
+git clean -f
+
+to remove local files
+
+To see what files will be removed (without actually removing them):
+
+git clean -n -f
+
+
+
+
+
+Setting your branch to exactly match the remote branch can be done in two steps:
+
+git fetch origin
+git reset --hard origin/master
+If you want to save your current branch's state before doing this (just in case), you can do:
+
+git commit -a -m "Saving my work, just in case"
+git branch my-saved-work
+Now your work is saved on the branch "my-saved-work" in case you decide you want it back (or want to look at it later or diff it against your updated branch).
+
+Note that the first example assumes that the remote repo's name is "origin" and that the branch named "master" in the remote repo matches the currently checked-out branch in your local repo.
+
+
+
+I believe that one of those will fit your need
+
+1 - Undo commit and keep all files staged: git reset --soft HEAD~
+
+2 - Undo commit and unstage all files: git reset HEAD~
+
+3 - Undo the commit and completely remove all changes: git reset --hard HEAD~
+
+git reset --hard c14809fa
